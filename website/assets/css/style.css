@@ -1,3 +1,18 @@
 body{
     background: #BDBDBD;
 }
+
+.container-custom {
+    margin: 0; /* Eliminar el margen */
+    padding: 0; /* Eliminar el relleno */
+  }
+
+.jumbotron {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Sombra del texto */
+    padding: 100px 0;
+  }
+
