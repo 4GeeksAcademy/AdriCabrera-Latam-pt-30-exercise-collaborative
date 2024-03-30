@@ -10,7 +10,7 @@ body{
 .jumbotron {
     background-image: url(../img/bg.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6); /* Sombra del texto */
     padding: 100px 0;
